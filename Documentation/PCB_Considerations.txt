@@ -1,0 +1,12 @@
+- Voltage input into ADC must be less thatn 3.3v (vcc), in the nist paper they ranged from -200mV to 200mV so we should be good, but need to add over voltage protection, along with voltage shift so it is initially ~1.65v (to read negative induced voltage)
+
+- Add MOSFET controlled by a PWM from atmega to control the current through the coil, along with connect the current sensor to it to provide feedback
+
+- Current supply needs to be bipolar, also need to be able to read bipolar current?
+
+- Find values for the TVS
+
+- Find values for the Oscillators
+
+- Ensure USB schematic is correct
+

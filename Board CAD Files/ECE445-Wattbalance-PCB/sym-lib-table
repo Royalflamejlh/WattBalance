@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB4085-GF-A_REVB")(type "KiCad")(uri "${KIPRJMOD}/Wattbalance_Symbols/USB4085-GF-A_REVB.kicad_sym")(options "")(descr ""))
+  (lib (name "QFN12_ACS70331_ALM")(type "KiCad")(uri "${KIPRJMOD}/Wattbalance_Symbols/2024-03-19_19-03-22.kicad_sym")(options "")(descr ""))
+  (lib (name "hall_effect_sensor")(type "KiCad")(uri "${KIPRJMOD}/Wattbalance_Symbols/hall_effect_sensor.kicad_sym")(options "")(descr ""))
+  (lib (name "L9110")(type "KiCad")(uri "${KIPRJMOD}/Wattbalance_Symbols/L9110.kicad_sym")(options "")(descr ""))
+)

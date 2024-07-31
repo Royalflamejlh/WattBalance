@@ -1,0 +1,15 @@
+2x MBR0520 Diodes
+1x 5mm Green LED  
+1x 5mm Blue LED
+1x 5mm Red LED
+1x 5mm White LED
+6x 1N5819 Diode
+1x 1A Resettable Fuse LVR100
+1x 16mhz crystal
+1x Switch
+1x 330 ohm Resistor
+3x 470 ohm Resistors
+2x 4k Resistors
+1x 6k Resistor
+14x 1x2 Molex Male
+1x 2x3 Molex Male
